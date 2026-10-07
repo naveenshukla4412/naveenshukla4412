@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a B.Tech student passionate about programming,
 - 🛠️ Tools: Git, GitHub, Microsoft Excel
 - 🌱 Currently Learning: Python, Data Structures & Algorithms, and Software Development
 - 🎯 Goal: To become a skilled Software Developer
-- 🤝 Open to: Collaboration and learning opportunities
 
 ---
 
